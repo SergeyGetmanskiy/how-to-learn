@@ -1,0 +1,13 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.content {
+  display: grid;
+  flex-direction: column;
+  align-items: center;
+  align-content: stretch;
+}
