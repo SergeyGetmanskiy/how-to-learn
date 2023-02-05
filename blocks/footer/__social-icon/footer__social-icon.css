@@ -4,9 +4,6 @@
   width: 16px;
   margin-right: 10px;
   text-decoration: none;
-  transition: opacity .5s linear 0s;
 }
 
-.footer__social-icon:hover {
-  opacity: .5;
-}
+

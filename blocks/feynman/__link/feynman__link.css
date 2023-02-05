@@ -7,6 +7,7 @@
   font-weight: normal;
   text-decoration: none;
   color: #2f80ed;
+  z-index: 1;
   transition: opacity .5s linear 0s;
 }
 
