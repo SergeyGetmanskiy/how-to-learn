@@ -1,4 +1,5 @@
 .resources__link {
+  display: block;
   transition: opacity .5s linear 0s;
 }
 
