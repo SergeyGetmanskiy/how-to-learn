@@ -1,18 +1,18 @@
-# Проект "Научиться учиться"
-### *идея: Яндекс Практикум*
-### *веб-вёрстка: Сергей Гетманский*
+# Project "How-to-Learn"
+### *idea: Yandex.Practicum*
+### *code by: Sergey Getmanskiy*
 
-Проект представляет собой типовой одностраничный сайт информационного характера.
+The project shows an example of a typical single page web site. 
 
-__Проект в частности содержит следующие приемы верстки:__
+__Among other things the project includes the following features:__
 
-1. Методология БЭМ.
-2. Flexbox и Grid-layout.
-3. Позиционирование HTML элементов.
-4. Анимации через @keyframes.
-5. Вставка видео через <iframe>.
-6. :hover эффект.
+1. BEM methodology.
+2. Flexbox & Grid-layout.
+3. Positioning of HTML elements.
+4. @keyframes animation.
+5. Embedding of <iframe> videos.
+6. :hover effect.
 
-Стек: HTML5, CSS3
+Stack: HTML5, CSS3
 
-Проект завершен.
+Project complete.
